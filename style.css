@@ -1,0 +1,29 @@
+body
+{
+	background: linear-gradient(Red,Orange, Yellow,deeppink);
+    
+    color:black;
+}
+
+	.login_div1
+	{
+		background: linear-gradient(Blue,Purple);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		color: white;
+	}
+    .login_div2
+	{
+		background: linear-gradient(Blue,Purple);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		color: white;
+	}
+    #p1, #p2{
+        color: black;
+    }
+    html{
+         height:100% 
+        }
